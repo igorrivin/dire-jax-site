@@ -72,4 +72,4 @@ Apache 2.0
 Supported by Google Cloud Research Award #GCP19980904
 
 ## 📫 Contact
-Questions? Reach out at [you@example.com](mailto:you@example.com)
+Questions? Reach out at [rivin@temple.edu](mailto:rivin@temple.edu)
