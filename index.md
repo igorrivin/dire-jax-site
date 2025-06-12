@@ -5,8 +5,6 @@ title: DiRe-JAX - Dimensionality Reduction in JAX
 
 # DiRe-JAX: Dimensionality Reduction in JAX
 
-![teaser](assets/teaser.gif)
-
 DiRe-JAX is a dimensionality reduction package written in JAX, offering advanced embedding capabilities with performance benchmarks against existing approaches like UMAP and tSNE.
 
 **Authors**: A. Kolpakov and I. Rivin
