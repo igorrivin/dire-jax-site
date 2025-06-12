@@ -53,7 +53,7 @@ reducer_blobs.visualize(labels=labels_blobs, point_size=4)
 ```
 
 ## 🔍 Paper
-Read the paper: [PDF](paper.pdf) • [arXiv](https://arxiv.org/abs/2503.03156)
+Read the paper: [PDF](paper.pdf) • [arXiv](https://arxiv.org/abs/2503.03156) • [JOSS](https://joss.theoj.org/papers/10.21105/joss.08264)
 
 ## 🧠 Code
 Check the code on [GitHub](https://github.com/sashakolpakov/dire-jax.git)
